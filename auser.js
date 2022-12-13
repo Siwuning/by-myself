@@ -1,7 +1,7 @@
 /**
  * 查询游戏的中国区Steam价格。
  * @author: 彭宇明
- * 更新地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/steam.js
+ * 更新地址：https://raw.githubusercontent.com/Siwuning/by-myself/89bada236e4679a919b2a3d130fe355ccabe4ff1/auser.js
  * 配置方法：
  * 1.浏览器打开steam网站：https://store.steampowered.com/，搜索你想添加的游戏。
  * 2. 以GTA5为例，GTA5的STEAM商店链接为：https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/。
